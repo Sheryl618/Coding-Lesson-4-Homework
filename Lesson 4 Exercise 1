@@ -1,3 +1,2 @@
 for x in range(0, 10):
-    print('hello')
-    print('hello %s' % x)
+print(x)
